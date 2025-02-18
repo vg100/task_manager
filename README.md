@@ -39,10 +39,6 @@ cd ../frontend
 npm install
 ```
 
-### 3️⃣ Set Up Environment Variables
-Create a `.env` file in both `backend/` and `frontend/` directories:
-
-
 ## 🏃 Running the Application
 
 ### Backend (Node.js)
