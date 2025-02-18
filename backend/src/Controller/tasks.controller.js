@@ -7,7 +7,6 @@ class TaskController {
       const { userId } = req.user;
 
       const tasks = await Task.find({ userId }); // Fetch all tasks
-      console.log(tasks, 'tasks')
       res.status(200).json({ success: true, data: tasks });
     } catch (error) {
       next(error);
