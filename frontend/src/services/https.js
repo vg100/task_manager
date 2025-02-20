@@ -4,7 +4,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 class Http {
     constructor() {
         this.axiosInstance = axios.create({
-            baseURL: "http://192.168.1.3:5000",
+            baseURL: "https://task-manager-iywx.onrender.com",
             headers: {
                 'Content-Type': 'application/json',
             },

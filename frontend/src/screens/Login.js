@@ -27,7 +27,7 @@ const LoginScreen = ({ navigation }) => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.content}>
-      <Text style={styles.headerTitle}>Welcome To task Management</Text>
+      <Text style={styles.headerTitle}>Welcome To task Manager</Text>
         <View style={styles.formCard}>
           <Text style={styles.inputLabel}>Email Address</Text>
           <TextInput

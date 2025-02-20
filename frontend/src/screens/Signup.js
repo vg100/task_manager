@@ -33,7 +33,7 @@ const SignupScreen = ({ navigation }) => {
       
 
       <View style={styles.content}>
-      <Text style={styles.headerTitle}>Welcome To task Management</Text>
+      <Text style={styles.headerTitle}>Welcome To task Manager</Text>
         <View style={styles.formCard}>
           <Text style={styles.inputLabel}>Full Name</Text>
           <TextInput
