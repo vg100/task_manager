@@ -7,12 +7,12 @@ This repository contains both the **frontend** (React Native) and **backend** (N
 ## 📂 Project Structure
 ```
 taskmanager/
-│── backend/   # Backend code (Node.js, Express, MongoDB)
+│── backend/   # Backend code
 │   ├── src/
 │   ├── package.json
 │   ├── index.js
 │
-│── frontend/  # Frontend code (React/React Native)
+│── frontend/  # Frontend code
 │   ├── src/
 │   ├── package.json
 │   ├── index.js
